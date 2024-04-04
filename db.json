@@ -1,0 +1,54 @@
+{
+    "contact": [
+        {
+            "id": 1,
+            "photo": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
+            "fullname": "Иванов Иван Иванович",
+            "position": 1,
+            "mobile": 79841232558,
+            "email": "ivanov@mail.ru"
+        },
+        {
+            "id": 2,
+            "photo": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
+            "fullname": "Васген Василий Генадьевич",
+            "position": 4,
+            "mobile": 79144569663,
+            "email": "vasgen@mail.ru"
+        },
+        {
+            "id": 3,
+            "photo": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
+            "fullname": "Толстой Лепс Николаевич",
+            "position": 3,
+            "mobile": 79517898552,
+            "email": "vasgen@mail.ru"
+        },
+        {
+            "id": 4,
+            "photo": "https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png",
+            "fullname": "Диван Дмитрий Иванович",
+            "position": 2,
+            "mobile": 79511476554,
+            "email": "vasgen@mail.ru"
+        }
+    ],
+    "position": [
+        {
+            "id": 1,
+            "name": "Системный администратор"
+        },
+        {
+            "id": 2,
+            "name": "Оператор"
+        },
+        {
+            "id": 3,
+            "name": "Начальник производства"
+        },
+        {
+            "id": 4,
+            "name": "Технолог"
+        }
+    ]
+}
