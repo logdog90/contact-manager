@@ -22,6 +22,7 @@ const AddContact = () => {
                     type="text" 
                     className="form-control"
                     placeholder="ФИО"
+                    required
                   />
                 </div>
                 <div className="mb-2">
@@ -38,6 +39,7 @@ const AddContact = () => {
                     type="text" 
                     className="form-control"
                     placeholder="Телефон"
+                    required
                   />
                 </div>
                 <div className="mb-2">
@@ -45,6 +47,7 @@ const AddContact = () => {
                     type="text" 
                     className="form-control"
                     placeholder="E-Mail"
+                    required
                   />
                 </div>
                 <div className="d-flex gap-2">
