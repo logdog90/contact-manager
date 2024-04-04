@@ -33,13 +33,12 @@ const EditContact = () => {
                   />
                 </div>
                 <div className="mb-2">
-                  <select className="form-control">
-                    <option value="">Выберите должность</option>
-                    <option value="">Сантехник</option>
-                    <option value="">Электрик</option>
-                    <option value="">Менеджер</option>
-                    <option value="">Системный администратор</option>
-                  </select>
+                <input 
+                    type="text" 
+                    className="form-control"
+                    placeholder="Должность"
+                    required
+                  />
                 </div>
                 <div className="mb-2">
                   <input 
